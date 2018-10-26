@@ -4,3 +4,4 @@
 
 // CASE 2
 export {ReactComponent as LogoIcon} from './logo.svg';
+export const temp = 'temp';
